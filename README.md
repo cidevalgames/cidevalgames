@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cidevalgames
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Game Design & Creative Coding
-- 💞️ I’m looking to collaborate on Unity 3D
+- 👀 I’m interested in Cybersecurity and Game Development
+- 🌱 I’m currently learning IT and Cybersecurity
 - 📫 How to reach me valleriandicque10@gmail.com
 
 <!---
