@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cidevalgames
-- 👀 I’m interested in Cybersecurity and Game Development
-- 🌱 I’m currently learning IT and Cybersecurity
+- 👀 I’m interested in Application Development and Game Development
+- 👨‍💼 Looking for a Developer internship
+- 🌱 Soon I'll begin a Master's degree at CESI school
 - 📫 How to reach me valleriandicque10@gmail.com
 
 <!---
