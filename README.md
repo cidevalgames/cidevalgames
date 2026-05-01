@@ -37,8 +37,8 @@ L'année s'annonce riche en nouveaux défis :
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cidevalgames&show_icons=true&theme=tokyonight" alt="Stats de Vallérian" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cidevalgames&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cideval-dev&show_icons=true&theme=tokyonight" alt="Stats de Vallérian" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cideval-dev&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" width="300" />
 </p>
 
 ---
